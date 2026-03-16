@@ -26,5 +26,5 @@
 
 ## 📫 Contact
 
-- Website: https://indexithub.com
-- Email: info@indexithub.com
+- Website: https://indexithub.com, https://kishormunikar.com.np
+- Email: kishor@indexithub.com, k1shor.mkar@gmail.com
