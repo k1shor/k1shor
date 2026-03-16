@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kishoremunikar&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=k1shor&show_icons=true)
 
 ---
 
