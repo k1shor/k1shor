@@ -19,8 +19,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=k1shor&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME)
 
+![Streak](https://streak-stats.demolab.com/?user=USERNAME)
 ---
 
 ## 📫 Contact
